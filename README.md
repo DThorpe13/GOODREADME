@@ -2,45 +2,45 @@
 
     ## Title
 
-    GOODREADME
+        GOODREADME
 
     ## Description 
 
-    creates readme using node.js
+        Creates readme using node.js
 
     ## Table of Contents
 
-      * [Installation](#installation)
+      * [Installation]
     
-      * [Usage](#usage)
+      * [Usage]
 
-      * [Contributing](#contibuting)
+      * [Contributing]
 
-      * [Tests](#tests)
+      * [Tests]
 
     ## Installation
 
-    
+        Npm installs are required for accessing information.
 
     ## Usage
 
-    no current usage
+        No current usage information.
 
     ## License
 
-    MIT
+        MIT
 
     ## Contributing
 
-    no
+        Not taking contributions on this project at this time.
 
     ## Tests 
 
-    no tests
+        No tests
 
     ## Questions?
 
-    Please use the contact information below if you would like to reach me with any questions.
+        Please use the contact information below if you would like to reach me with any questions.
 
 
     GitHub Username: Dthorpe13
